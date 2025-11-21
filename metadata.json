@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Ludo Master",
+  "description": "A fully functional 4-player Ludo game featuring local multiplayer, real-time game logic, and an AI Sportscaster powered by Gemini.",
+  "requestFramePermissions": []
+}
